@@ -1,0 +1,26 @@
+{
+    "job_roles" : 
+        [ 
+            "data%20engineer%20india",
+            "backend%developer%20india",
+            "blockchain%developer%20india",
+            "data%scientist%20india",
+            "fullstack%developer%20india"
+        ],
+    "project_path": "/Users/antonyprincej/PycharmProjects/skill_graph/",
+    "raw" : {
+        "folder" : "raw",
+        "type" : "json"
+    },
+    "processed" : {
+        "folder" : "raw",
+        "type" : "parquet"
+    },
+    "destination" : {
+        "type" : "sql"
+    },
+    "report" : {
+        "type" : "csv"
+    }
+
+}

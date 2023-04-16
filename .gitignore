@@ -1,0 +1,8 @@
+tdd.txt
+.idea/
+.ipynb_checkpoints/
+chromedriver_mac64/
+org_raw/
+venv/
+chromedriver_mac64.zip
+.env
