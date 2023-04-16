@@ -13,7 +13,7 @@
         "type" : "json"
     },
     "processed" : {
-        "folder" : "raw",
+        "folder" : "processed",
         "type" : "parquet"
     },
     "destination" : {

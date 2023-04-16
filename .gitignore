@@ -3,6 +3,8 @@ tdd.txt
 .ipynb_checkpoints/
 chromedriver_mac64/
 org_raw/
+org_processed/
 venv/
 chromedriver_mac64.zip
 .env
+.talismanrc
