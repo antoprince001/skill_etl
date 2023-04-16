@@ -31,7 +31,6 @@ def parse_skill_columns(df):
 
 def skill_data_transform(file_path, job_role, output_folder_path):
     skills_df = read_skill_json(file_path)
-    print(skills_df.printSchema)
     job_results_df = transform_array_to_rows(skills_df)
     job_skills_df = parse_skill_columns(job_results_df)
     job_skills_df = job_skills_df.withColumn("id",
@@ -41,7 +40,7 @@ def skill_data_transform(file_path, job_role, output_folder_path):
                                              F.lit(job_role))
     job_skills_df = job_skills_df.withColumn("via",
                                              F.regexp_replace("via", "via", ""))
-    job_results_df.write.mode("overwrite").parquet(f"{output_folder_path}/{job_role}")
+    job_skills_df.write.mode("overwrite").parquet(f"{output_folder_path}/{job_role}")
 
 
 if __name__ == "__main__":
