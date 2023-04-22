@@ -43,7 +43,7 @@ def skill_data_transform(file_path, job_role, output_folder_path):
     job_skills_df.write.mode("overwrite").parquet(f"{output_folder_path}/{job_role}")
 
 
-if __name__ == "__main__":
+def task_transform_job_postings():
     config_json = config.get_config_json(CONFIG_PATH)
     job_roles = config_json.get("job_roles")
 

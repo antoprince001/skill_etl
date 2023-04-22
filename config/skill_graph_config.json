@@ -7,7 +7,7 @@
             "data%scientist%20india",
             "fullstack%developer%20india"
         ],
-    "project_path": "/Users/antonyprincej/PycharmProjects/skill_graph/",
+    "project_path": "/Users/antonyprincej/airflow/dags/skill_graph/",
     "raw" : {
         "folder" : "raw",
         "type" : "json"
