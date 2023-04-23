@@ -1,0 +1,328 @@
+aeecf9ba-259e-4564-a2aa-d7cd658fcf75,"Software Engineer, Backend Developer - India","All roles at JumpCloud are Remote unless otherwise specified in the Job Description.
+
+About JumpCloud
+
+JumpCloud’s mission is to Make Work Happen®, providing simple, secure access to an organization’s technology resources from any device, or any location. The JumpCloud Open Directory Platform gives IT, security operations, and DevOps a single, cloud-based solution to control and manage employee identities and their devices, and apply conditional access controls based on Zero Trust principals. Since launching in 2012, our global user base has grown to more than 150,000 organizations, with more than 5,000 paying customers including Cars.com, GoFundMe, Grab, ClassPass, Uplight and Peloton. JumpCloud has raised over $400M from world-class investors including Sapphire Ventures, General Atlantic, Sands Capital, Atlassian, and CrowdStrike. Our teams are growing fast, too, and we're looking for talent across engineering, sales, customer success, marketing, product management, and more. Join... our team of dedicated, passionate, and creative people who are eager to change the IT industry forever.
+
+Do you enjoy solving challenging problems using the latest technologies within a great team? Is knowing your work will be highly visible and mission critical a key component for the next step in your career? At JumpCloud, we’re looking for best-in-class talent to help define the future of modern identity and device management from the ground up.
+
+JumpCloud is looking for an experienced Software Engineer to join an engineering team focusing on OAuth, OpenID Connect, Public Key Infrastructure (PKI) and working with services that use all of these technologies. Identity Management (IM) services are a key part of the entire JumpCloud product portfolio. Along with our Authentication and Authorization services, IM provides the foundation for our identity and security solutions, both cloud and device based. The Identity team’s work will make using JumpCloud even easier and more seamless, while providing a very high level of security.
+
+What we are looking for:
+• 3-8 years experience developing distributed systems, microservices, and REST APIs (including using them as integration points with third-party applications) in a variety of programming languages including Golang.
+• Experience using one of the public cloud providers (AWS, GCP or Azure) with CI/CD pipelines (Travis/CircleCI) to build, test and deploy.
+• Willingness to mentor junior members of the team.
+• Bonus points if you have experience with Python, Docker, feature flags, and BDD.
+
+What you will be doing:
+• Feature implementation through both individual contributions and providing guidance in terms of organization, process and design.
+• Our team primarily uses Go, although experience with other modern languages is fine.
+• We collaborate closely with architects, UX, and DevOps to ensure our systems are highly available, scalable, performant, and deliver an amazing user experience.
+• We use the scrum framework.
+• Learning and working with cryptography and security concepts, including PKI and TLS/SSL agreement protocols, authentication, symmetric and asymmetric encryption, and related concepts. Bonus points if you have experience with these already.
+• Using OAuth/OIDC flows to authenticate users and then allow them to use services.
+• Integrate identity via certs, OAuth and other methods into cloud services like AWS API Gateway.
+• Work with 3rd party applications like mesh VPNs to ensure that these applications work with JumpCloud provided identity.
+• Shape the future of our Identity Management services roadmap by participating in planning/scoping conversations with product managers.
+• Help the team and organization live by our core values: building connections, thinking big and getting 1% better every day.
+
+#LI-PD1
+
+Where you’ll be working/Location:
+
+JumpCloud is committed to being Remote First, meaning that you are able to work remotely within the country noted in the Job Description.
+
+This role is remote in the country of India. You must be located in and authorized to work in India to be considered for this role.
+
+Why JumpCloud?
+
+If you thrive working in a fast, SaaS-based environment and you are passionate about solving challenging technical problems, we look forward to hearing from you! JumpCloud is an incredible place to share and grow your expertise! You’ll work with amazing talent across each department who are passionate about our mission. We’re out of the box thinkers, so your unique ideas and approaches for conceiving a product and/or feature will be welcome. You’ll have a voice in the organization as you work with a seasoned executive team, a supportive board and in a proven market that our customers are excited about.
+
+One of JumpCloud's three core values is to “Build Connections.” To us that means creating "" human connection with each other regardless of our backgrounds, orientations, geographies, religions, languages, gender, race, etc. We care deeply about the people that we work with and want to see everyone succeed."" - Rajat Bhargava, CEO
+
+Please submit your résumé and brief explanation about yourself and why you would be a good fit for JumpCloud. Please note JumpCloud is not accepting third party resumes at this time.
+
+JumpCloud is an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.
+
+#LI-Remote #BI-Remote
+
+JumpCloud focuses on SaaS, Enterprise Software, B2B, and B2 B Market – Sme’S Specifically . Their company has offices in Denver and Boulder. They have a large team that's between 201-500 employees. To date, JumpCloud has raised $57.467M of funding; their latest round was closed on May 2019.
+
+You can view their website at http://jumpcloud.com or find them on Twitter, Facebook, LinkedIn, and Product Hunt", Wellfound,backend%developer%20india
+f58a1c03-2c8b-4931-bf96-cf6fd71f8bbb,Back End Developer,"About This Role
+
+Zoom is growing at an explosive pace by every measure - revenues, people, innovation, and customers. Led by Eric S. Yuan, the #1 ranked CEO on Glassdoor, our unique culture makes Zoom an awesome place to work. We are expanding teams across the organization. If you are motivated by delivering happiness, come join us at Zoom!
+
+As a Back end Developer, you will be responsible for translating the CMS requirements into technical deliverables which include enterprise-level architecture and implementing strategies using components/pages in CMS (Wordpress and Optimizely) platform to support multi-site, multi-channel, multi-lingual delivery environments.
+
+KEY RESPONSIBILITIES
+• Partner with web developers, engineers, marketers, SEO, localization team, and designers to scale Zoom’s web production
+• Collaborate with product managers, engineers, web developers, visual designers, and business stakeholders to create custom web pages for global product launches, marketing campaigns... events, and promotions.
+• Develop Digital Consumer experiences using C# based Optimizely CMS.
+• Help maintain and migrate existing Wordpress sites to Optimizely.
+• Design efficient content models, security models, workflows, and templates
+• Create components and page templates, combining backend C# .net Framework,, HTML/CSS, and frontend JavaScript frameworks technologies
+• Work with architects to ensure that scalable solutions are created, alongside equally talented CMS engineers
+• Diagnose and solve technical problems related to content management implementation.
+• Conduct code reviews for ongoing projects to ensure optimal code quality and appropriate design patterns are used.
+• Participate in project planning sessions with team members to analyze development requirements, provide work breakdown and estimates of work
+
+QUALIFICATIONS
+• 3 plus years of strong Web Content Management experience with C#(.net Framework) and frontend technologies.
+• Expert level development skills using REST, Javascript, jQuery, AJAX, JSON, HTML, CSS, NodeJS and angularJS
+• Solid experience with .net application building including templates, components, dialogs, widgets, and bundles.
+• Experience with MVC based application development will have great add.
+• Experience migrating from existing CMS to Optimizely is a plus
+• Javascript Frameworks - preferred but not required
+• AngularJS v4+/React or any other JS Framework.
+• Working experience in PHP or LAMP/MAMP.
+• Knowledge of version control systems such as GitHub or GitLab is a plus.
+• Ability to troubleshoot code issues and recommend solutions.
+
+We believe that the unique contributions of all Zoomies is the driver of our success. To make sure that our products and culture continue to incorporate everyone's perspectives and experience we never discriminate on the basis of race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. Zoom is proud to be an equal opportunity workplace and is an affirmative action employer. All your information will be kept confidential according to EEO guidelines.
+
+We welcome people of different backgrounds, experiences, abilities and perspectives including qualified applicants with arrest and conviction records and any qualified applicants requiring reasonable accommodations in accordance with the law. If you need any assistance or accommodations due to a medical condition, or if you need assistance accessing our website or completing the application process, please let us know by emailing us at careers@zoom.us.
+
+At Zoom, we care about our employees, their families, and their well-being. As part of our award-winning workplace culture and commitment to delivering happiness, our benefits program offers a variety of perks, benefits, and options to help employees maintain their physical, mental, emotional, and financial health; support work-life balance; and contribute to their community in meaningful ways. To view our benefits, click here.
+
+Work Styles at Zoom
+
+In most cases, you will have the opportunity to choose your preferred working location from the following options when you join Zoom: in-person, hybrid or remote. Visit this page for more information about Zoom's Workstyles.
+
+About Us
+
+Zoomies help people stay connected so they can get more done together. We set out to build the best video product for the enterprise, and today help people communicate better with products like Zoom Contact Center, Zoom Phone, Zoom Events, Zoom Apps, Zoom Rooms, and Zoom Webinars.
+
+We’re problem-solvers, working at a fast pace to design solutions with our customers and users in mind. Here, you’ll work across teams to deliver impactful projects that are changing the way people communicate and enjoy opportunities to advance your career in a diverse, inclusive environment.
+
+Explore Zoom:
+• Hear from our leadership team
+• Browse Awards and Employee Reviews on Comparably
+• Visit our Blog
+• Zoom with us!
+• Find us on social at the links below and on Instagram
+• View more jobs, sign up for job alerts and join our talent community. Visit the Zoom careers site", Careers - Zoom,backend%developer%20india
+3d124df1-4bb2-42c8-9069-559bfcb7d54d,Backend Developer (Django),"Qrate is a B2B Saas platform that helps recruiting firms and enterpise to optimise their Talent acquisition process from job creation to candidate screening to interview schedule.
+
+Our platform leverages Al to deliver personalized and efficient recruitment services for both employers and job seekers.
+
+We currently also operate Aviate, our B2C employability enhancement and placement product for job-seekers. With Aviate, we have launched India's first 100% Job Guarantee Program for HR and TA Roles.
+
+Learn More about Aviate: www.aviate.jobs
+
+Learn More about Q-Rate: www.qrate.ai
+
+We are seeking a talented and experienced Backend Developer to join our growing team. As a Backend Developer, you will be responsible for designing, developing, and maintaining the server-side logic of our applications, ensuring high performance and responsiveness to requests from the front-end. You will work closely with our product and design teams to build robust and scalable solutions.
+
+Responsibilities:
+•... Develop, maintain, and optimize server-side logic for our web and mobile applications.
+• Collaborate with front-end developers to integrate user-facing elements with server-side logic.
+• Design and develop RESTful APIs to be consumed by the frontend.
+• Ensure the performance, security, and scalability of our applications.
+• Write clean, maintainable, and testable code using industry best practices.
+• Participate in code reviews, troubleshooting, and debugging of complex issues.
+• Stay up-to-date with emerging trends and technologies in web development.
+
+Requirements:
+• At least 2 years of experience in backend development.
+• Strong proficiency in Python.
+• Experience with Django web frameworks.
+• Proficiency in database management and SQL (preferably postgres).
+• Familiarity with RESTful API design and implementation.
+• Good understanding of server-side technologies such as caching, message queues, and load balancing.
+• Knowledge of software development principles such as SOLID, DRY, and YAGNI.
+• Familiarity with version control systems such as Git or SVN.
+• Excellent communication and teamwork skills.
+
+Q-rate focuses on B2B · SaaS · Mobile · Artificial Intelligence / Machine Learning. Their company has offices in Goa. They have a small team that's between 1-10 employees.
+
+You can view their website at https://qrate.ai", Wellfound,backend%developer%20india
+a3fdad22-1202-4f25-acd1-50bcc834e4e7,Backend Developer,"● Background - 4+ years of proven experience working as a Backend Developer.
+
+● Proficiency in NodeJS, Express and vanilla javascript.
+
+● Hands-on experience with databases. (e.g. Postgres, MongoDB, Elasticsearch)
+
+● Strong knowledge creating APIs. Knowledge using web sockets.
+
+● Experience in creating REST API documentation using Open API or similar tools.
+
+● Experience developing and creating architectures taking advantage of cloud services and capabilities
+
+● Hands on experience on cloud services (AWS, GCP, Digital Ocean), git and CI/CD tools.", LinkedIn,backend%developer%20india
+06f91f0f-5e88-4233-8321-2d02f97bc6c8,Senior Backend Developer,"Greeting and thank you for visiting our job post.
+
+Supercoder is an AI-powered career development platform to connect developers around the world to remote job opportunities with competitive payment.
+
+We are looking for Senior Backend Developer position with details as below.
+
+Salary range: $2,500 - $4,000/month
+
+Type of role: 100% full-time remote
+
+Requirements:
+• Proven experience as a Backend Developer, with expertise in [Python + FastAPI] or [Kotlin + Spring]
+• Strong understanding of Domain-Driven Design (DDD) principles and ability to apply them in practice
+• Familiarity with API design and RESTful APIs
+• Solid understanding of databases and data modeling
+• Excellent problem-solving skills and attention to detail
+• Strong communication and teamwork skills
+• Ability to work independently and meet project deadlines
+
+Qualifications:
+• Bachelor's degree or equivalent experience in Computer Science
+• Ability to multi-task, organize, and prioritize work
+• Experience working in Agile... development environments.
+• Excellent problem-solving and analytical skills.
+• Strong communication and collaboration skills", LinkedIn,backend%developer%20india
+9b396c24-f229-48ba-bc33-1b527c37c364,Backend Developer,"Introduction
+
+At IBM, work is more than a job - it's a calling: To build. To design. To code. To consult. To think along with clients and sell. To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you've never thought possible. Are you ready to lead in this new era of technology and solve some of the world's most challenging problems? If so, lets talk.
+
+Your Role and Responsibilities
+• Work in an Agile, collaborative environment to build, deploy, configure, and maintain Lakehouse (SaaS) on multiple hyperscalers.
+• Use continuous integration tools like Jenkins and Artifactory to build automation pipeline to deploy different service workloads for Lakehouse.
+• Collaborate multiple development teams to enable a continuous integration environment that sustains high productivity levels and emphasizes defect prevention techniques.
+• Design and implement automation for deployment, monitoring, logging, alerting of large-scale Lakehouse... environments.
+
+Required Technical and Professional Expertise
+• Around 3 years of relevant experience
+• Virtualization, containerization technologies, containers orchestration software and cloud platforms
+• Kubernetes clusters administration
+• Usage of cloud services (Amazon Web Services, IBM Cloud, Microsoft Azure, Google Cloud Platform)
+• Languages: GO, Python, Ruby
+• Linux and shell scripting
+• CI/CD Tools: Jenkins, Artifactory Development and operation of fully managed SaaS services * Source Control Tools: Git, GitHub
+• Excellent communication skills.
+
+Preferred Technical and Professional Expertise
+• Experience with cloud SaaS security
+• Hypershift and openshift
+• Familiarity of RDBMS, data warehouse, data lakes
+• Familiarity with Hive metastore and open data formats (Iceberg, Delta Lake, Hudi)
+• Open-source data engines: Presto, Spark
+• Data governance management
+• Open-source software development
+
+About Business UnitIBM Analytics enables organizations to engage with data to answer the toughest business questions, uncover patterns and pursue breakthrough ideas. IBM Analytics offers a complete portfolio of big data and analytics solutions to fuel the Cognitive business.
+
+IBM Analytics delivers on the promise of cognitive business. Our portfolio provides the first and only end-to-end ecosystem of data, analytics and cognitive capabilities and expertise. Available on the cloud, on premises or in hybrid deployments, our portfolio helps organizations uncover insights that improve business processes and ideas that drive game-changing outcomes
+
+This job requires you to be fully COVID-19 vaccinated prior to your start date and proof of vaccination status will be required before your start date. During the Onboarding process you will be asked to confirm your vaccination status, in case you are unable to get vaccinated for any reason, you can let us know at that stage. Please let us know if you are unable to be vaccinated due to medical or religious reasons. IBM will consider such requests on a case by case basis subject to submission of required proof by the candidate before a stipulated date.
+
+Your Life @ IBMIn a world where technology never stands still, we understand that, dedication to our clients success, innovation that matters, and trust and personal responsibility in all our relationships, lives in what we do as IBMers as we strive to be the catalyst that makes the world work better.
+
+Being an IBMer means you'll be able to learn and develop yourself and your career, you'll be encouraged to be courageous and experiment everyday, all whilst having continuous trust and support in an environment where everyone can thrive whatever their personal or professional background.
+
+Our IBMers are growth minded, always staying curious, open to feedback and learning new information and skills to constantly transform themselves and our company. They are trusted to provide on-going feedback to help other IBMers grow, as well as collaborate with colleagues keeping in mind a team focused approach to include different perspectives to drive exceptional outcomes for our customers. The courage our IBMers have to make critical decisions everyday is essential to IBM becoming the catalyst for progress, always embracing challenges with resources they have to hand, a can-do attitude and always striving for an outcome focused approach within everything that they do.
+
+Are you ready to be an IBMer?
+
+About IBMIBM's greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we're also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business. At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it's time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+Location StatementWhen applying to jobs of your interest, we recommend that you do so for those that match your experience and expertise. Our recruiters advise that you apply to not more than 3 roles in a year for the best candidate experience.
+
+For additional information about location requirements, please discuss with the recruiter following submission of your application.
+
+Being You @ IBMIBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status", IBM Jobs,backend%developer%20india
+7624ab95-733b-47c3-b117-c8f3c16daa74,Lead Back-End Developer,"Design and development of backend features and components - Collaborating with other developers in design and development - Reducing the level of technical debt of the backend codebase - Help triage bugs, track software defects, and ensure their timely resolution - Stewarding technical standards and quality - Interface with product and other functional teams and their leadership The job holder uses existing and emerging technology platforms to design, develop and document technically detailed applications. . S/he also analyzes organizational needs and goals to develop and implement application systems. Provides application software development services or technical support in situations of moderate complexity. May also be responsible for requirements gathering and BRD/SRD preparation. Has thorough knowledge of the Software Development Life Cycle. Conducts reviews of the test Plan and test Data.Programming well-designed, testable, efficient code. Analyze, design and develop tests and... test-automation suites. Develop flowcharts, layouts and documentation to satisfy requirements and solutions. Maintain software functionality and currency (technical debt and gain). Actively participate in code reviews. Integrate software components into a fully functional software system. Apply security and privacy principles.Execute full lifecycle software development. Develop software verification plans and quality assurance procedures. Troubleshoot, debug and upgrade existing systems. Ensure software is updated with latest features. Participate in deployment process following all change controls. Provide ongoing maintenance, support and enhancements in existing systems and platforms. Provide recommendations for continuous improvement.Active learning engagement. Complete all required mandatory training / policy awareness curricula on time. Use learning tools such as Pluralsight to complete both recommended and aspirational targets set in personal development plans.Demonstrate team work. Leverage existing products/functionality and promote reuse. Work alongside other engineers on the team to elevate technology and consistently apply best practices. Collaborate closely with all the other members of the team to take shared responsibility for the overall efforts that the team has committed to. Collaborate cross-functionally with data engineers, business users, project managers and other engineers to achieve elegant solutions. Utilize local meetups to gain and share knowledge.Compiles documentation written by more senior developers of all procedures used in system. Acts as mentor to junior level engineers .Prior experience with using a specific application development toolkit and knowledge of a backend development language required (i.e. C#, Java) S/he must have knowledge about the functions and features of modern and traditional structured methods for developing applications. Communications and organization skills; team work skills. Contributes to the achievement of related teams' objectivesMODIFIED BASED UPON LOCAL REGULATIONS/REQUIREMENTSBachelor's degree in computer science engineering or a related discipline, or equivalent work experience required2-6 years of experience in software development required; experience in the securities or financial services industry is a plus; should have thorough knowledge of the software development cycle S/he must also have experience developing in backend environment Job holder must be knowledgeable about cross-platform interoperability (multiple platforms. NT, Intranet, etc.) , major tools in a toolkit for a specific platform and features of multiple toolkits. S/he must be experienced at resolving hardware, software, and communications malfunctions and understand the business impact of resolving complications.. BNY Mellon is an Equal Employment Opportunity/Affirmative Action Employer. Minorities/Females/Individuals with Disabilities/Protected Veterans. Our ambition is to build the best global team – one that is representative and inclusive of the diverse talent, clients and communities we work with and serve – and to empower our team to do their best work. We support wellbeing and a balanced life, and offer a range of family-friendly, inclusive employment policies and employee forums.
+
+BNY Mellon is an Equal Employment Opportunity/Affirmative Action Employer. Minorities/Females/Individuals With Disabilities/Protected Veterans.
+
+Our ambition is to build the best global team – one that is representative and inclusive of the diverse talent, clients and communities we work with and serve – and to empower our team to do their best work. We support wellbeing and a balanced life, and offer a range of family-friendly, inclusive employment policies and employee forums", Eightfold.ai,backend%developer%20india
+0505ce0f-c2a9-4ea1-b5db-a4433c313fd6,Backend Developer (Rust),"Job description
+
+We're looking to hire an experienced Backend Developer with experience in Rust to join our fast-moving team at AfterShoot!
+
+Responsibilities
+• Take ownership of the backend which may also involve having a decent amount of knowledge of working with Python
+• Work with the team to port parts of the current Python Backend to Rust
+• Work with the product and R&D team to understand business goals and help bring them to fruition
+• Research new technologies and best practices and make sure we’re up to date
+
+Preferred Experience
+• Experience with compiling and linking third party libraries
+• Experience with creating and maintaining scalable database architectures for edge devices.
+• Diesel, Serde, Rocket, Tokio, Threads, low level optimizations.
+• Experience making slow backends fly like a rocket.
+
+Benefits
+• Chance to work on an industry-defining product! Go read our testimonials: https://aftershoot.com
+• Health and wellness benefits
+• Competitive Pay
+• Option to work... remotely (in person preferred but we allow for remote work)
+• Flexibility with working hours - that means we don't believe in the traditional 9-5 work routine
+• Your own custom work machine with your requested specifications (and color 😉 )
+
+We're looking for people with a can-do attitude and a mindset to do something that impacts an industry as a whole! If you don't want to be yet another cog in the system and want to work on innovative and challenging problems, we'll be excited to have you!
+
+About Us
+
+At AfterShoot, we are building the Future of Photography!
+
+With very little to no innovation in the past decade, we believe that the Photo Industry is ripe for disruption!
+
+Aftershoot focuses on Machine Learning, Photography, Artificial Intelligence, Weddings, and Events. Their company has offices in Delaware. They have a mid-size team that's between 51-200 employees. To date, Aftershoot has raised $120k of funding; their latest round was closed on April 2021.
+
+You can view their website at https://aftershoot.com/ or find them on Twitter, Facebook, and LinkedIn", Wellfound,backend%developer%20india
+13cbbff0-f7b7-43de-aa77-c8694c7527af,Mid-Senior Backend Developer,"We are looking for a skilled Mid-Senior Backend Developer to join our team. The ideal candidate will have 2 to 3 years of experience in backend development and a strong proficiency in Node.js, TypeScript and MongoDB.
+
+You will be responsible for building and maintaining robust, scalable, and high-performance backend systems, for cutting-edge projects, designing and implementing complex solutions.
+
+Before you click apply, read the job post carefully.
+
+APPLY HERE: https://forms.gle/6gWw3QewEqmCuyo96
+
+Responsibilities:
+• Design, develop, and maintain backend systems using Node.js, Typescript and MongoDB
+• Collaborate with the frontend team to ensure seamless integration
+• Provide technical guidance to junior developers
+• Participate in code reviews, testing, and debugging to ensure code quality
+• Develop and maintain APIs
+• Develop and maintain databases using MongoDB
+• Write clean, efficient, and well-documented code
+• Optimize applications for maximum speed and scalability
+•... Continuously research and learn new technologies to stay up-to-date with industry trends
+
+Requirements:
+• 2-3 years of experience as a backend developer
+• Understanding of web application architecture and design patterns
+• Knowledge of version control systems such as Git
+• Strong knowledge of Node.js and TypeScript
+• Good Experience with MongoDB
+• Experience with RESTful APIs
+• Familiarity with AWS or other cloud services
+• Strong problem-solving skills and attention to detail
+• Excellent communication skills and ability to work collaboratively with a team
+
+If you are a highly motivated individual with a passion for coding, we encourage you to apply. We offer dynamic work environment of growth and leadership.
+
+we want to hear from you, if you are a motivated and skilled backend developer with a passion for building scalable and high-performance applications.
+
+Join our team and work on exciting products that challenge and inspire you. Apply today!
+
+APPLY HERE: https://forms.gle/6gWw3QewEqmCuyo96
+
+Package:
+
+9 LPA - 11 LPA", LinkedIn,backend%developer%20india
+046c4342-7d8e-4ccf-8066-a0e425cdb248,Backend Developer,"Responsibilities
+• Work on an agile engineering team writing maintainable and scalable code for software components and influencing team decisions.
+• Collaborate with stakeholders to imagine, design, develop, test, and launch software.
+• Capable of independently clarifying technical requirements, assessing development estimates and applying a broad range of design approaches.
+• Review the code of other team members and provide constructive direction.
+• Drive continuous improvement of software quality and maintainability of products/features.
+• Continuous learning of technology trends, tools, and approaches, including sharing this knowledge with your team.
+• Mentor and lead developers by cultivating curiosity and deep technical understanding.
+
+Requirements
+• Experience in contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems
+• Bachelor's degree in Computer Science or equivalent combination of technical education... and work experience;
+• 3-5 years of Software Development experience;
+• Experience designing highly interactive web applications with performance, scalability, accessibility, usability, design, and security in mind is an added advantage
+• Should possess strong coding skills
+• Solid software development background including design patterns, data structures, test driven development.
+• Experience with distributed systems, algorithms, and relational and no-SQL databases.
+• Familiar with building complex web applications.
+• Software development experience in building highly scalable applications.
+• Any previous experience in working with Node.js, Redis, FFMPEG, MongoDB, Elastic Search, Cassandra, Kafka or AWS is a plus", LinkedIn,backend%developer%20india

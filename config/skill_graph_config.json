@@ -14,13 +14,10 @@
     },
     "processed" : {
         "folder" : "processed",
-        "type" : "parquet"
+        "type" : ["parquet","csv"]
     },
     "destination" : {
         "type" : "sql"
-    },
-    "report" : {
-        "type" : "csv"
     }
 
 }

@@ -1,0 +1,432 @@
+1e29dbf0-fe8a-4abc-a031-83fc2aa5375a,Data Scientist II,"About the Role
+
+We are looking for a data scientist to join the Customer Obsession Data Science team in Uber Bangalore. This team is colocated with CO engineering, product, and, design teams and is at the heart of Uber's focus to provide world-class customer support experiences both in-app and other live channels. The ideal candidate will be working closely with mobile and backend engineers and product managers to create and complete the direction of the product development. This will include providing an end-to-end data science workflow that includes scoping the business problem, providing a data lens to product design, owning the experimentation cycle to full global rollouts, and eventually impact estimation. The product development roadmap includes several projects both on customer-facing mobile apps as well as internal tools that require deep knowledge of machine learning, advanced statistics, causal inferential techniques, and, some knowledge about natural language processing... would be preferred.
+---- What You Will Do ---
+
+• Develop statistical models/analysis and apply them to solve real-time problems;
+• Create practical data insights and solutions from Uber's large datasets;
+• Employing a mastery of statistical analysis, including descriptive statistics, correlation, regression, and confidence intervals;
+• Designing metrics and developing SQL queries to generate reports; and
+• Own experimentation related to product development and partner with engineering, design, and product teams during the product development cycle
+• ---- What You Will Need ---*
+
+• M.S. or Bachelors degree in Math, Economics, Bioinformatics, Statistics, Engineering, Computer Science, or other quantitative fields. (If M.S. degree, a minimum of 2+ years of industry experience required and if Bachelor's degree, a minimum of 2+ years of industry experience as a Product Analyst or equivalent)
+• Advanced SQL expertise
+• Basic understanding of experimental design (such as A/B experiments) and statistical methods
+• Ability and experience in extracting insights from data, and summarizing learnings/takeaways
+• Experience with Excel and some dashboarding/data visualization (i.e. Tableau, Mixpanel, Looker, or similar)
+• Advanced degrees in Math, Economics, Statistics, Engineering, Computer Science, Operation Research, Machine Learning or other quantitative fields
+• Strong background in developing time-series predictive models using classical as well emerging machine learning methods.
+
+• 5+ years of industry experience in consumer-facing product analytics
+• Strong storytelling: distill interesting and hard-to-find insights into a compelling, concise data story
+• Ability to communicate effectively and manage relationships with partners coming from both technical and non-technical backgrounds
+• Strong judgment, critical thinking, and decision-making skills
+• Ability to solve complex business problems that cross multiple product/project areas and teams,veteran
+At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world.
+We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have a curiosity, passion and collaborative spirit, work with us, and let's move the world forward, together.
+Uber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+If you have a disability or special need that requires accommodation, please let us know by completing this form", The Muse,data%scientist%20india
+3dbad832-14b1-47c8-89a3-5922f7069081,Senior Data Scientist,"The Customer and Partner Experience (CxP) team is a part of the Identity & Network Access (IDNA) engineering division within Microsoft's booming Security product group. We work with customers and partners from all over the world to drive service adoption and to shape the Microsoft Identity business.
+
+The Data & Insights team has an exciting opportunity for a Senior Data Scientist to work in the most customer-connected engineering team at Microsoft. Your primary responsibilities include understanding product/business priorities, conducting opportunity analysis, defining product metrics, setting metric targets, building data-driven hypothesis, and running high-quality experiments to hit those targets.
+
+We are looking for an experienced Data Scientist with a proven track-record of solving complex data analysis and machine learning problems in a real-world product setting. We want folks who are passionate about customer experience and driving user engagement and growth. An ideal candidate... will closely partner with product teams to drive product/business growth with meaningful insights and data-driven recommendations and experimentation. Experience with experimentation and with driving growth in a subscription business is a plus.
+
+#IdentityJobs", Microsoft Careers,data%scientist%20india
+27cbf25b-9a87-4253-a8eb-c959fb1e26a2,Data Scientist,"Redaptive is seeking a Data Scientist. If you are a data-powered storyteller and interested in driving energy-efficiency to scale, you may be Redaptive’s next great Data Scientist. In this role you will leverage all available data to answer Redaptive’scritical questions. These analyses and models drive customer insights and support new product development in Redaptive’s rapid growth phase.
+
+This role will be based in India and will work closely with teammates across several international time zones including Argentina and USA.
+
+Job Responsiblities
+• Analyze time series data from a broad suite of energy efficiency and sustainability technologies to calculate site and portfolio performance, usage trends, anomalies, variability, etc.
+• Develop and deliver visualizations, dashboards, and presentations to communicate analysis results with project stakeholders.
+• Support time-sensitive questions from sales, customer experience, and operations teams on meter reliability, data quality... trends, and anomalies.
+• Lead deep dive investigations into performance and data anomalies, coordinating and communicating results with customer experience and operations teams.
+• Produce data quality reports and contribute to the development of various data quality improvement initiatives.
+• Seek and incorporate internal and external datasets to enrich reporting and analyses.
+• Develop predictive models for electric, water, and/or gas resource consumption, savings, anomaly detection, time-series classification, and other sustainability and resource conservation domains.
+
+Job Requirements / Qualifications
+• 3+ years of professional data science experience.
+• Experience writing Python and its data ecosystem (Jupyter, NumPy, Pandas, etc.).
+• Experience with modern machine learning techniques and libraries within the Python ecosystem (scikit-learn, XGBoost, TensorFlow, PyTorch, etc.).
+• Deep expertise with querying relational (SQL) databases, non-relational databases (NoSQL), and RESTful APIs.
+• Tendency towards curiosity and experimentation with a strong attention to detail
+• Taking data science (modeling, visualizations, etc.) into a production environment, deploying models (ideally on cloud architecture like AWS), integrating with software systems, retraining and maintenance of production models
+• Self-starter able to thrive in a startup environment and work with a high degree of autonomy.
+• Strong communication skills and presentation skills.
+Nice to have:
+• Bachelor’s degree (or higher) in statistics, economics, STEM, or similarly quantitative field preferred or relevant work experience
+• Excellent story-telling skills including the ability to tailor and deliver presentations on complex data analyses to both technical and non-technical audiences.
+• Experience working with building efficiency, HVAC systems, and/or energy, water, and gas resources.
+• Experience collaborating through a version control system (Git, GitHub, GitLab, etc.)
+• Experience working with plotly.
+
+About Redaptive Inc.
+
+Redaptive is the leading Energy-as-a-Service company that enables businesses to meet largescale energy efficiency and strategic technology objectives. With over $1 billion in project lending capacity, Redaptive deploys best-in-class energy efficiency technologies across large commercial real estate portfolios through a unique, data driven shared savings model. Redaptive is backed by CarVal, ENGIE New Ventures, Linse Capital, CBRE, Evergy Ventures and CPP Investments.
+
+Our company culture is fun, collaborative, and fast paced. We are passionate about changing the world and helping our customers to become more environmentally sustainable and profitable. We are looking for team members who are driven, passionate, and want to take on a diverse set of challenges to help grow a great company. Redaptive, Inc is an equal employment opportunity employer and all qualified applicants will receive consideration for employment.
+
+This employer participates in E-Verify.
+
+CCPA Notice for California Job Applicants
+
+Please, no third-party recruiters.
+
+#LI-Remote", Indeed,data%scientist%20india
+764ff324-7149-438b-8725-7d6469e4eaab,Data Scientist III,"Data Scientist III
+
+Equinix is the world’s digital infrastructure company, operating 240+ data centers across the globe and providing interconnections to all the key clouds and networks. Businesses need one place to simplify and bring together a fragmented, complex infrastructure that spans private and public cloud environments. Our global platform allows customers to place infrastructure wherever they need it and connect it to everything they need to succeed.
+
+We are a fast-growing global company with 20 years of consecutive quarterly growth*. Through our innovative portfolio of high-performance products and services, we have created the largest, most active global ecosystem of 10,000+ companies, including 2,100 networks and 3,000+ cloud and IT service providers in 32 countries spanning six continents.
+
+A career at Equinix means you will collaborate on work that impacts the world and be surrounded by endless opportunities to learn new skills and grow in varied directions. We embrace... diversity in thought and contribution and are committed to providing an equitable work environment. That is foundational to our core values as a company and is vital to our success.
+
+Job Summary
+
+Watched a movie online? Accessed an email? Used a cloud? Odds are that you are already been using Equinix data centers in some form.
+
+Equinix operates International Business Exchange™ where the information-driven world lives and thrives. Equinix IBXs provide a platform where many of the world’s best brands are launching their next breakthrough innovations.
+
+As a Full stack Data Scientist, you will be responsible to build, and optimizing our AI/ML systems. You will evaluate existing machine learning (ML) processes, perform statistical analysis to resolve data set problems, and improve the accuracy of our AI software's capabilities.
+
+Key Responsibilities
+• Research and implement appropriate AI algorithms and tools
+• Envision, implement, and deliver production-level Classical Machine Learning models(Regression, Classification, and clustering), NLP models (Sentiment, Summarization, Chatbot/QA, Info Retrieval), Computer Vision(Image Classification, Object Detection, Semantic Segmentation and Instance Segmentation using Yolo V7, DDRNet, RFTM using pre-trained datasets(Coco, Cityscapes)
+• Deploy ML models into production using cutting-edge deployment strategies, conduct A/B tests to objectively measure improvements
+• Keep innovating and optimizing the machine learning workflow, from data exploration, and model experimentation/prototyping to production
+• Apply cutting-edge technologies and toolchains in big data and machine learning to build a machine learning platform on Cloud (ML ops)
+• Building Features, running tests, performing statistical analysis, and interpreting test results
+• Proficient in any of the deep learning frameworks such as PyTorch, TensorFlow, Keras
+• Develop a model pipeline in a Developer environment, check in to Git, use GitHub actions, containerize the application, and deploy it to VM, App Engine, or K8 Cluster
+
+Qualifications
+• 1+ years with Ph.D. OR 2+ Years with a Master's OR 4+ Years with Bachelor's in Data Science, Computer Science, or Machine Learning
+• Experience coding in Python (needed)
+• Excellent understanding of software engineering principles and design patterns
+• Experience in one of the cloud platforms
+• Ability to communicate the results of the analysis
+• Highly effective time management, communication, and organizational skills
+
+Equinix is committed to ensuring that our employment process is open to all individuals, including those with a disability. If you need assistance in applying for an open position, you may send an email to Staffing@equinix.com. Please provide your contact information and let us know how we can assist you.
+
+Equinix is an Equal Employment Opportunity and, in the U.S., an Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to unlawful consideration of race, color, religion, creed, national or ethnic origin, ancestry, place of birth, citizenship, sex, pregnancy/childbirth or related medical conditions, sexual orientation, gender identity or expression, marital or domestic partnership status, age, veteran or military status, physical or mental disability, medical condition, genetic information, political/organizational affiliation, status as a victim or family member of a victim of crime or abuse, or any other status protected by applicable law", Equinix Careers,data%scientist%20india
+62714723-383f-48c8-88f8-669a5b3a9798,Data Scientist,"Join the leader in entertainment innovation and help us design the future. At Dolby, science meets art, and high tech means more than computer code. As a member of the Dolby team, you’ll see and hear the results of your work everywhere, from movie theaters to smartphones. We continue to revolutionize how people create, deliver, and enjoy entertainment worldwide. To do that, we need the absolute best talent. We’re big enough to give you all the resources you need, and small enough so you can make a real difference and earn recognition for your work. We offer a collegial culture, challenging projects, and excellent compensation and benefits, not to mention a Flex Work approach that is truly flexible to support where, when, and how you do your best work.
+
+Scope and responsibilities:
+
+The audio and video technologies developed by Dolby are implemented in billions of devices and service offerings worldwide. Billions of people around the world use Dolby technologies to create, edit, and... enjoy multimedia content. For us, it is crucial to understand how the technologies we built are being used and experienced on a daily base. To do so, we are investing in a comprehensive, large-scale data platform and data science effort.Therefore, Dolby is looking for a data scientist to analyze large amounts of raw data generated continuously from various systems.
+
+The data scientist role is responsible for helping build advanced data analysis tools and automated analytics using machine learning and artificial intelligence. You will develop statistical modelling and prediction algorithms based on a variety of data types including audio, speech, image, and text data coming from a variety of sources. These algorithms will help us understand how users engage with our technologies. We will gain a deeper understanding of how users worldwide feel and think about the experiences we enable as a company. These insights will be crucial to define our technology and investment directions.
+• Research, develop and apply data science, machine learning, and statistical methods to large sets of multimedia, contextual, and metadata data. Mine data using modern tools and programming languages.
+• Providing state-of the art data analysis helps to understand how Dolby technologies are being deployed and used.
+• Providing state-of the art data analysis helps to understand how users engage in interactive multimedia experiences delivered by Dolby.
+• End-to-end planning and execution of data science initiatives scoping, building, testing, implementation, maintenance, tracking and optimisation of predictive models.
+• Influence technology strategy with data, be focused on impact, and collaborate with other teams.
+• Maintain proficiency within the data science domain by keeping up with technology and trend shifts.
+• Foster data-driven innovation, and provide domain-specific expertise in cross-organization projects/initiatives.
+• Build automation needed for effective labelling of data, perform data preparation, and data augmentation required for the training and deployment of the artificial intelligence algorithms and frameworks.
+• Create tools for data processing, labelling, analysis and generating synthetic data.
+• Help with and support the development of scalable data pipelines to support increasing data volume and complexity. Support enhancing data sets, provide labelling methodologies and perform data preparation required ML algorithm research.
+• Present information to different stakeholders using data visualization techniques.
+
+Education & Experience:
+• Master or PhD degree in Mathematics, Economics, Physics, Computer Science, or equivalent.
+• Strong background in statistical signal processing, decision theory, greedy algorithms, Bayesian modelling, random algorithms, time series, hypothesis testing, classification, clustering, hypothesis testing and multilinear regression analysis.
+• Experienced in designing experiments, defining hypotheses, and developing statistical models to reach a scientifically sound conclusion.
+• Passionate about and accomplished in data-driven machine-learning and research.
+• Extensive experience using statistics, mathematics, algorithms and programming languages to solve big data challenges.
+• Fluent in structured and unstructured data, its management, and modern data transformation methodologies.
+• Ability to define and create complex models to pull valuable insights, predictions and innovation from data.
+• Experience working with large, sparse, and noisy datasets.
+• Audio-visual data analysis.
+• Strong mathematical, analytical, and problem-solving skills.
+• Experienced using SQL/MySQL, Databricks, Spark/PySpark and AWS.
+• Proficiency in Python is required. Proficiency in C/C++, Matlab desired.
+• A-grade extract, transform, and load (ETL) skills for data wrangling heavily around unstructured data using big-data technologies such as Hadoop/Spark.
+• Experienced in preprocessing of structured and unstructured data and preparing them for ML/AI learning systems.
+• Strong communication skills and data reporting/visualization capabilities
+• Strong interpersonal skills, ability to work as part of a global R&D team.
+
+Build your career profile, also within the Careers tab in Employee Central to open the possibility of new opportunities finding you. Express your interest. If you want to express your interest in a specific opportunity and be contacted by a recruiter, click the apply button associated with the relevant job description. The Recruiter is the only one who will see your application.
+
+Please refer to the recruiting website for more information: https://jobs.dolby.com/careers
+
+#LI-MX1", Careers At Dolby,data%scientist%20india
+4a8ac37a-fdd5-493c-8eab-c4ae1f71ddeb,Data Scientist,"Company Description
+
+Bosch Global Software Technologies Private Limited is a 100% owned subsidiary of Robert Bosch GmbH, one of the world's leading global supplier of technology and services, offering end-to-end Engineering, IT and Business Solutions. With over 20K+ associates, it’s the largest software development center of Bosch, outside Germany, indicating that it is the Technology Powerhouse of Bosch in India with a global footprint and presence in the US, Europe and the Asia Pacific region.
+
+Job Description
+
+As five-star service provider for our internal divisions, Bosch Global Business Services offers End-to-End processes that ensure the best possible customer experience. Our long-term aim is to process all services from anywhere in the world and provide our solutions around the clock. Working with us means being part of a diverse team, with dynamic colleagues as digital innovation center for internal business processes driving success together. Join our team as Future-Makers... Solution Innovators and Design Thinkers and help us to offer services that empower people to create technology that is invented for life.
+
+Activities:
+• As a Data Scientist you will work as part of our global Data Science team to provide data driven AI solutions for our internal customers using state-of-the-art Machine Learning methods and tools.
+• In collaboration with other Bosch units, you will enhance and operate our existing cloud-based solutions as well as explore new potential Machine Learning use cases.
+• As an employee of the global cross Business Intelligence team (xBI), you will work on the future steering of Bosch together with Data Modelers, Data Engineers, and Business Analysts.
+• Last but not least, as part of the leading in-house provider for data and analytics-based solutions within Bosch, you will experience the start-up spirit with us and make your contribution through entrepreneurial thinking and acting.
+
+Qualifications
+• Education: Masters or bachelor’s degree in software engineering, Computer Science, Mathematics, or comparable qualification
+• Experience: At least 2 years of experience of professional data science.
+• Know-How: Extensive know-how of Python, (R is a plus) and in object-oriented programming languages with high code quality (Clean Code). Proven track record in machine learning, neural networks, pattern analysis, time series forecasting, data analysis as well as data-pipeline technologies (e.g., Kubernetes, Docker, NoSQL-Databases, Workflow-Engine). Solid understanding of statistics; knowledge of Cloud Technologies (ideally Microsoft Azure) and SQL are beneficial
+• Languages: Fluent in English, written and spoken. Strong communication and client-facing skills.
+• Personality and Working Practice: strong communicational skills, committed, responsible, flexible, agile, analytical, proactive, result and solution-oriented
+• Enthusiasm: Passion for data science and advanced analytics, developing interdisciplinary approaches and products for customers and presenting complex issues in a simple manner
+
+Additional Information
+• Personality: Positive Attitude , Team player, committed, responsible and flexible & Ability to lead teams .
+• Enthusiasm: High Passion for software development, data and its integration, developing interdisciplinary approaches and products for customers and presenting complex issues in a simple manner
+• Way of working: Agile, analytical, proactive, result, solution-oriented and high code quality", SmartRecruiters Job Search,data%scientist%20india
+40b3c6a4-cb9f-49e2-9916-782b9c087bec,Data Scientist,"Job Description
+
+Data Scientist
+
+The incumbent is responsible for supporting Human Health (HH) in partnering with 68 countries to ensure we are developing an industry-leading strategy and approach to data sourcing & utilizing commercial data assets to inform business critical decisions and actions within the markets. Under direction of the Data Supplier Strategy Engagement Leader, the incumbent will be assigned to manage the relationship with IQVIA, the largest vendor in the HH commercial data space in the first ever centralized global data program.
+
+The Data Science Senior Specialist will conduct benefit realization activities, including exploratory data analyses, fit for purpose analyses, and proof-of-concept use case tests which will identify value, quality, cost, and efficiencies.
+
+The team will work closely with the other key areas of the Business, Market D&A teams, Procurement, DSI, Contracting, Governance & Compliance, and Vendor Management. They will field escalations, drive... the team based on the agreed upon SLA, maintain a set of data analytics tools, and works with the other areas of the broader DSI&G team to drive continuous improvement.
+
+Job Tasks:
+• Determine how best to manipulate data sources to get the answers you need, making it easier for data scientists to discover patterns, spot anomalies, test a hypothesis, or check assumptions.
+• Acquire and integrate data from multiple data sources for analysis, perform exploratory to advanced predictive and/or modelling analytics, and identify data relationships such as trends, patterns and correlations in order to solve business questions as well as provide actionable recommendations
+• Having the skills needed to exploit the data and managing the issues of data privacy and security. Leverage high technical skill and ability to support the development of innovative data solutions which can differentiate and drive growth for our Company.
+• Use statistical and computer science software to navigate big data and multiple databases residing in different platforms, to carry out analyses that includes identifying appropriate data sources, compiling and cleaning data, analysing and visualizing findings, writing reports, and developing recommendations.
+• Conducts assigned data innovation analytics including data quality assessments, fit-for-purpose analyses, and proof-of-concept use case tests.
+• Leverage the data to develop clear understanding of efficiencies, and partnership values to convey key insights to help inform strategic decisions
+• Ensure alignment with the other Data Scientist’s in the team and share best practices
+• Be able to presents data and analysis in a clear and concise manner allowing the internal clients to quickly understand the results and make data driven decisions.
+• Promote a risk-aware culture, ensure efficient and effective risk and compliance management practices by adhering to required standards and processes.
+• Produces exploratory data summaries, visualizations, and presentations to highlight topics of potential focus for further analysis, policy review, and/or external collaboration.
+
+Education
+• Bachelor of Science (or equivalent) in Data Science, Computer Science, Management Information Systems, IT, MBA, or an equivalent scientific/commercial discipline
+• Minimum of three (2) or more years of experience in analysing healthcare administrative data, electronic health records, and/or disease/patient registries for relevant quantitative and qualitative research.
+
+Preferred:
+• MS (or equivalent) in Data Science, Computer Science, Management Information Systems, IT, MBA, or an equivalent scientific/commercial discipline
+
+Experience:
+• Strong business acumen with a keen ability to understand how data (HCP, consumer, payer, patient, account, engagement, etc.) can be leveraged to inform critical commercial decisions and actions.
+• Proven ability to analyse and assess the commercial value of data assets.
+• Proven potential to effectively collaborate with a broad range of internal and external stakeholders. Global experience a plus.
+• Intellectual curiosity and ability to identify innovative approaches to addressing data needs.
+• Excellent presentation, analytics, and communication skills, both written and oral, are required to synthesize key issues and communicate/persuade constituencies towards specific actions and initiatives.
+• Ability to attain “trusted advisor” status with key stakeholders and business clients.
+• Ability to operate in dynamic, transforming environment.
+• Project management and root cause analysis
+
+Our Human Health Division maintains a “patient first, profits later” ideology. The organization is comprised of sales, marketing, market access, digital analytics and commercial professionals who are passionate about their role in bringing our medicines to our customers worldwide.
+
+Who we are …
+
+We are known as Merck & Co., Inc., Rahway, New Jersey, USA in the United States and Canada and MSD everywhere else. For more than a century, we have been inventing for life, bringing forward medicines and vaccines for many of the world's most challenging diseases. Today, our company continues to be at the forefront of research to deliver innovative health solutions and advance the prevention and treatment of diseases that threaten people and animals around the world.
+
+#Data2020
+
+What we look for …
+
+Imagine getting up in the morning for a job as important as helping to save and improve lives around the world. Here, you have that opportunity. You can put your empathy, creativity, digital mastery, or scientific genius to work in collaboration with a diverse group of colleagues who pursue and bring hope to countless people who are battling some of the most challenging diseases of our time. Our team is constantly evolving, so if you are among the intellectually curious, join us—and start making your impact today.
+
+We are proud to be a company that embraces the value of bringing diverse, talented, and committed people together. The fastest way to breakthrough innovation is when diverse ideas come together in an inclusive environment. We encourage our colleagues to respectfully challenge one another’s thinking and approach problems collectively. We are an equal opportunity employer, committed to fostering an inclusive and diverse workplace.
+
+Current Employees apply HERE
+
+Current Contingent Workers apply HERE
+
+Search Firm Representatives Please Read Carefully
+Merck & Co., Inc., Rahway, NJ, USA, also known as Merck Sharp & Dohme LLC, Rahway, NJ, USA, does not accept unsolicited assistance from search firms for employment opportunities. All CVs / resumes submitted by search firms to any employee at our company without a valid written search agreement in place for this position will be deemed the sole property of our company. No fee will be paid in the event a candidate is hired by our company as a result of an agency referral where no pre-existing agreement is in place. Where agency agreements are in place, introductions are position specific. Please, no phone calls or emails.
+
+Employee Status:
+Regular
+
+Relocation:
+No relocation
+
+VISA Sponsorship:
+No
+
+Travel Requirements:
+No Travel Required
+
+Flexible Work Arrangements:
+Hybrid
+
+Shift:
+
+Valid Driving License:
+
+Hazardous Material(s):
+
+Requisition ID:R231099", MSD Careers,data%scientist%20india
+97b29f21-ff49-4271-b41a-0ea763e09fb5,Data Scientist - Remote (India),"About Aryng :
+
+Aryng is a Data Science consulting, training, and advising company. Aryng's SWAT Data science team helps solve complex business problems, develop the company's Data DNA through Data Literacy programs, and deliver rapid ROI using machine learning, deep learning, and AI. Our client list includes companies like Google, Box, Here, Applied Materials, Abbott Labs, and GE among others.
+• Are you overworked and have no work-life balance?
+• Are you frustrated with building models but unsure if your work is driving any impact?
+• Are you a downstream order taker with no access to clients or stakeholders?
+• Are you tired of your company's work culture with useless hierarchy and bureaucracy?
+• Are you constantly in a support role with no seat at the table?
+
+At Aryng, we are looking for a seasoned data scientist who wants to drive impact with their direct hands-on work with the client. This is a permanent job role in a fast-growing start-up with a fantastic work culture and excellent... job satisfaction.
+
+Aryng is a Silicon-Valley based data science consulting company with clients including Google, JMSMuckers, Regeneron, GE, Life360, and Ipsy.
+
+Here are our core values:
+• We have a non-hierarchical, super-transparent culture. We all know what everyone is working on, where we are going, and how we are doing.
+• We are all learners, entrepreneurial, and love growth.
+• We are super talented and are known in the industry as a SWAT data science team
+
+Requirements
+• Work with clients to solve high-value problems in product, marketing, and operations.
+• Identify opportunities for leveraging client data to drive business solutions.
+• Assess the effectiveness and accuracy of new data sources and data-gathering techniques.
+• Develop advanced Machine learning and deep learning models for predictive analysis.
+• Use predictive modeling to increase and optimize customer experiences and revenue generation, increase growth, and drive profit.
+• Help with other activities to grow Aryng, including blogging, evangelizing the use of data science, mentoring trainees, and hiring.
+
+This role requires mandatory overlap hours with clients in the US from - 8 am - 12 pm PST- .
+
+Key Skills expected :
+• Proficient in Python and/or R
+• Experience with machine learning models such as gradient boosting, SVM, random forest, clustering, KNN, etc.
+• Statistical modeling and mathematical modeling
+• SQL
+
+Good to have :
+• Knowledge of deep learning models
+• Knowledge of deep learning framework.
+• Knowledge of cloud computing infrastructures.
+
+PLEASE APPLY IF YOU ARE WILLING TO WORK FROM 8:30 pm TO 1:30 am IST (Overlap hours with US clients)
+
+Benefits
+• Flexible work hours
+• Rapidly Growing Company
+• Awesome work culture
+• Learn From Experts
+• Work-life Balance
+• Competitive Salary
+• No Hierarchy
+• Highly Collaborative work environment
+• Executive Presence
+• End to End Problem Solving
+• 50%+ Tax Benefit
+• 100% Remote Company
+
+Check out our website to learn more about us.
+
+Why Join Aryng: Click on the Youtube link
+
+Aryng focuses on Machine Learning, Big Data, Artificial Intelligence, Consulting, and Data Mining. Their company has offices in Sunnyvale and Delhi. They have a small team that's between 11-50 employees.
+
+You can view their website at https://aryng.com/ or find them on LinkedIn", Wellfound,data%scientist%20india
+929aa19e-febc-4c8d-a987-13538200b081,"Principal Associate, Data Science","Voyager (94001), India, Bangalore, Karnataka
+
+Principal Associate, Data Science
+
+At Capital One data is at the center of everything we do. As a startup, we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making.
+
+Today, we are a high-tech company, a scientific laboratory, and a nationally recognized brand all in one impacting over 65 million customer accounts. Still founder-led by Chairman and CEO Richard Fairbank, we dare to dream, disrupt, and deliver a better way for our customers, the financial industry and for each other.
+
+As a Data Scientist at Capital One, you’ll be part of a team that’s leading the next wave of disruption at a whole new scale, using the latest in computing and... machine learning technologies and operating across billions of customer records to unlock the big opportunities that help everyday people save money, time and agony in their financial lives.
+
+Team Description
+
+At DataLabs Capital One India, we are at the cutting edge of solving some of the fundamental business problems using advanced data methodologies, statistics and machine learning algorithms.
+
+In DataLabs Model Risk Management team, we defend the company against model failures and find new ways of making better decisions with models. We use our statistics, software engineering, and business expertise to drive the best outcomes in both Risk Management and the Enterprise. We also understand that we can’t prepare for tomorrow by focusing on today, so we invest in the future: investing in new skills, building better tools, and maintaining a network of trusted partners. We learn from past mistakes and develop increasingly powerful techniques to avoid their repetition.
+
+Role Description
+
+In this role you will:
+• Partner cross-functionally with data scientists, quantitative analysts, business analysts, software engineers, and project managers to manage the risk and uncertainty inherent in statistical and machine learning models in order to lead Capital One to the best decisions, not just avoid the worst ones.
+• Build and validate statistical and machine learning models through all phases of development, from design through training, evaluation and implementation
+• Develop new ways of identifying weak spots in model predictions earlier and with more confidence than the best available methods
+• Assess, challenge, and at times defend state-of-the-art decision-making systems to internal and regulatory partners
+• Leverage a broad stack of technologies — Python, R, Conda, AWS, and more — to reveal the insights hidden within huge volumes of data
+• Build upon your existing machine learning and statistical toolset - both by learning new technologies and by building custom software tools for data exploration, model performance evaluation, and more
+• Communicate technical subject matter clearly and concisely to individuals from various backgrounds both verbally and through written communication; prepare presentations of complex technical concepts and research results to non-specialist audiences and senior management
+• Flex your interpersonal skills to translate the complexity of your work into tangible business goals, and challenge model developers to advance their modeling, data, and analytic capabilities
+
+The ideal candidate is:
+• Inquisitive. You thrive on bringing definition to big, undefined problems. You love asking questions and pushing hard to find answers. You’re not afraid to share a new idea.
+• Technical. You’re comfortable with open-source languages and are passionate about developing further. You have hands-on experience developing data science solutions using open-source tools and cloud computing platforms.
+• Statistically-minded. You’ve built models, validated them, and backtested them. You know how to interpret a confusion matrix or a ROC curve. You have experience with clustering, classification, time series, and deep learning.
+• Innovative. You continually research and evaluate emerging technologies. You stay current on published state-of-the-art methods, technologies, and applications and seek out opportunities to apply them.
+
+Basic Qualifications:
+• Degree in statistics, math, engineering, economics, econometrics, financial engineering, finance, or operations research with a quantitative emphasis preferred
+• 6+ years relevant work experience
+• Experience in Python or R
+
+Preferred Skills:
+• Proficiency in key econometric and statistical techniques (such as predictive modeling, logistic regression, survival analysis, panel data models, decision trees, machine learning methods)
+• 3+ years of experience model development or validation
+• 3+ years of experience in R or Python for large scale data analysis
+• 3+ years of experience with relational databases and SQL
+• Experience in Financial Risk across any area or Financial Risk Management (FRM) certification
+• Strong analytical skills with high attention to detail and accuracy
+• Excellent written and verbal communication skills
+
+No agencies please. Capital One is an Equal Opportunity Employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, physical and mental disability, genetic information, marital status, sexual orientation, gender identity/assignment, citizenship, pregnancy or maternity, protected veteran status, or any other status prohibited by applicable national, federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC", Capital One Careers,data%scientist%20india
+24a7de4e-d330-4e44-bad5-7b1095ad1f52,"Sr. Data Scientist, Data Science","Sr. Data Scientist - Machine Learning Specialist
+
+Headquartered in Dublin, Ohio, Cardinal Health, Inc. (NYSE: CAH) is a global, integrated healthcare services and products company connecting patients, providers, payers, pharmacists and manufacturers for integrated care coordination and better patient management. Backed by nearly 100 years of experience, with more than 50,000 employees in nearly 60 countries, Cardinal Health ranks among the top 20 on the Fortune 500.
+
+Department Overview
+
+augmented Intelligence (augIntel) builds automation, analytics and artificial intelligence solutions that drive success for Cardinal Health by creating material savings, efficiencies, and revenue growth opportunities. The team drives business innovation by leveraging emerging technologies and turning them into differentiating business capabilities.
+
+Job Overview
+
+Create and deliver business value at Cardinal Health by influencing and leading the charge of the machine leaning domain across business and... IT. Design and develop machine learning and deep learning solutions to maximize business value and effectiveness.
+
+Responsibilities
+• Research, evaluate, and implement artificial intelligence algorithms. Ensure projects are delivered in-line with reference architecture, road map and to the defined standards and best practices. Troubleshoot technical issues within ML platforms.
+• Diagnose business needs, analyze business processes, data flows, IT / technical artifacts and extract understanding of how the system or business process works as input for model development.
+• Identify high-value ML business opportunities and work with Business and IT stakeholders to realize business benefit.
+• Use deep subject matter/ functional expertise, influence and process skills to help internal/external customers and stakeholders identify and meet their high priority needs while considering cultural and diversity implications.
+• Work across diverse teams, perspectives and opinions and quickly build consensus.
+• Encourage informed risk-taking and act as a catalyst for innovation at Cardinal Health
+• Proactively develop, maintain and evangelize technical knowledge in Machine Learning and adjacent technologies.
+• Guide and mentor junior data scientists.
+• Lead machine learning solutions and present the findings to management and/or business stakeholders.
+
+Core Capabilities:
+• Possess deep functional and technical understanding of the Machine Learning technologies (Google’s Cloud Platform, custom and COTS-embedded) and leverage it across Cardinal Health’s large, complex and diverse landscape.
+• Business acumen (strong understanding of how business operates, and how to harness data and analytics to meet business needs)
+• Ability to develop and deploy advanced analytical models and algorithms that drive profitable growth, predictable patterns and areas of opportunity.
+• Maintain a solid understanding of up and downstream impacts implementing solutions using ML technologies.
+• Engage early in project efforts in order to analyze current solutions, provide solution options and recommendations, understand business process impact, provide accurate estimates.
+• Aide adoption of ML solutions within the business by conducting training, coordinating demos.
+• Establish development and delivery best practices in order for ML implementations to minimize rework and maintenance cost. Build ML architectures that work at Cardinal Health scale.
+• Experience with building explainable ML models.
+
+Qualifications
+
+Required:
+• 7+ years in the distribution or Healthcare industry and deep knowledge of their business practices.
+• 3+ years of proven Machine Learning experience and involvement in packaged platform delivery and management.
+• Strong working knowledge of a variety of machine learning techniques (Regression, Clustering, Decision Tree, Probability Networks, Neural Networks, Bayesian models etc.)
+• Experience with Machine Learning and related technologies such as Python, TensorFlow, Torch, Amazon SageMaker, Jupiter Notebooks.
+• Understanding of cloud data engineering and integration concepts.
+
+Preferred:
+• Delivery experience with Google Cloud Platform.
+• Delivery of related information software solutions such as data warehouses and integration platforms.
+• Agile development skills and experience.
+
+Cardinal Health supports an inclusive workplace that values diversity of thought, experience and background. We celebrate the power of our differences to create better solutions for our customers by ensuring employees can be their authentic selves each day. Cardinal Health is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, ancestry, age, physical or mental disability, sex, sexual orientation, gender identity/expression, pregnancy, veteran status, marital status, creed, status with regard to public assistance, genetic status or any other status protected by federal, state or local law", Cardinal Health Careers,data%scientist%20india

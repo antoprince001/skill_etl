@@ -2,8 +2,7 @@ from serpapi import GoogleSearch
 import json
 from dotenv import load_dotenv
 import os
-from utils import config
-import shutil
+from utils import config, folder
 
 load_dotenv()
 CONFIG_PATH = os.getenv("CONFIG_PATH", default=None)
@@ -31,9 +30,8 @@ def task_extract_job_postings():
     config_json = config.get_config_json(CONFIG_PATH)
     job_roles = config_json.get("job_roles")
     folder_path = config_json.get("project_path")+config_json.get("raw").get("folder")
-    folder_exists = os.path.exists(folder_path)
-    if folder_exists:
-        os.rename(folder_path, f"{folder_path}_archive_")
-    os.makedirs(folder_path)
+    print(folder_path)
+    folder.configure_folder_path(folder_path)
     for job_role in job_roles:
+        print(f"Extract for {job_role}")
         scrape_job_role_postings(job_role, folder_path)
