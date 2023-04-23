@@ -47,6 +47,7 @@ def skill_data_transform(file_path, job_role, output_folder_path):
                                              F.lit(job_role))
     job_skills_df = job_skills_df.withColumn("via",
                                              F.regexp_replace("via", "via", ""))
+    job_skills_df = job_skills_df.na.drop(subset=["description"])
     job_skills_df.write.mode("overwrite").parquet(f"{output_folder_path}/parquet/{job_role}")
     pandas_df = job_skills_df.toPandas()
     pandas_data = pandas_df[['id', 'title', 'description',  'via', 'role']]
