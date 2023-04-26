@@ -49,7 +49,7 @@ Link to Dashboard - https://public.tableau.com/app/profile/antony.prince.j/viz/s
 
 ### Configuration
 
-The Config file in the project under config/ used to configure the job roles to be queried and the path in which each stage of the pipeline should store the data during the Airflow DAG execution.
+The Config file in the project under config/ is used to configure the job roles to be queried and the path in which each stage of the pipeline should store the data during the Airflow DAG execution.
 
 
 ```json
