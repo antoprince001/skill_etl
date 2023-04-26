@@ -9,7 +9,7 @@ ETL Data pipeline project developed to process online job posts using Airflow, S
 
 ### Extract
 
-Job Posts is fetched from Google Jobs API based on job title and the data for each job roles is stored as individual JSON file in raw folder.
+Job Posts is fetched from Google Jobs API based on job role and the data for each job role is stored as individual JSON file in raw folder.
 
 ### Transform
 
@@ -49,7 +49,7 @@ Link to Dashboard - https://public.tableau.com/app/profile/antony.prince.j/viz/s
 
 ### Configuration
 
-The Config file in the project under config/ used to configure the job roles to query and the path in which each stage of the pipeline should store the data.
+The Config file in the project under config/ used to configure the job roles to be queried and the path in which each stage of the pipeline should store the data during the Airflow DAG execution.
 
 
 ```json
